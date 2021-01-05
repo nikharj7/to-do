@@ -1,0 +1,36 @@
+first create a repository and open git bash
+
+then configure git= 
+
+git config --global user.name "username"
+git config --global user.email "useremail"
+
+
+now jump into project folder 
+
+cd folder_name
+
+now initailize git 
+
+git init
+
+now add 
+
+git add .
+
+now commit messgae
+
+git commit -m "message"
+
+for check git status 
+
+git status 
+
+now open created repository and follow commands 
+
+git remote add origin https://github.com/username/repository_name.git
+
+git push -u origin master
+
+that's all thank you.
+
